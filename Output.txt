@@ -1,0 +1,2 @@
+Model Accuracy: 0.90
+Prediction for new patient: No Disease
